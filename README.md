@@ -4,7 +4,7 @@
 
 This project was challenging as it was my first time using javascript and had a mainly trouble wit the for loop  but I used my resources and figured it out . I was determined to figure out all the problems this project sure kept me on my toes.I built the project so the user can create a random password for any use they like. The problem this app solves is that it will generate a password for you that no one can ever guess. I learned many things from for loops to arrays and moreI enjoyed fixing my own problems as it showed me ehat mistakes as a developer I make .
 ## Usage
-
+https://robertox17.github.io/pass-gen-repo/git 
 
 ![screenshot of website page](assets/picOfpassGen.png)
 
